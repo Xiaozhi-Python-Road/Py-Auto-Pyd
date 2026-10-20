@@ -31,6 +31,12 @@ MinGW：GCC, also known as MinGW, was migrated from Linux to Windows. However, i
 ## Alright, my introduction is over. Now you can read the main text：
 
 ## The directory structure is as follows：
-![structure diagram](./resources/directory-struct.png)
+![](./resources/directory-struct.png)
+
+The most convenient part is that this tool encapsulates all the structures. Users only need to call them up, without having to write a single parameter command or code to achieve it! For setup.py, we have two sets of compiler generation tools to complete the conversion of py to pyd!
+
+![](./resources/build_tools.png)
+
+
 
 
