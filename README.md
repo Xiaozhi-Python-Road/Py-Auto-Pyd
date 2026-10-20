@@ -31,6 +31,6 @@ MinGW：GCC, also known as MinGW, was migrated from Linux to Windows. However, i
 ## Alright, my introduction is over. Now you can read the main text：
 
 ## The directory structure is as follows：
-！[structure diagram](./resources/directory-struct.png)
+![structure diagram](./resources/directory-struct.png)
 
 
