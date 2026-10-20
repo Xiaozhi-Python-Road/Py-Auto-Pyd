@@ -50,5 +50,7 @@ Currently, the compiler installation library only supports domestic mirror sites
 ![result](./resources/jieguo2.png)
 Compiling pyd is this simple. If you also need this fully automatic conversion tool, you are welcome to submit your questions
 
+# When submitting questions, it is necessary to clearly state the reasons for the application. The rest can be customized and await review
+
 
 
