@@ -31,11 +31,14 @@ MinGW：GCC, also known as MinGW, was migrated from Linux to Windows. However, i
 ## Alright, my introduction is over. Now you can read the main text：
 
 ## The directory structure is as follows：
-![](./resources/directory-struct.png)
+![directory structure;bibliographic structure](./resources/directory-struct.png)
 
 The most convenient part is that this tool encapsulates all the structures. Users only need to call them up, without having to write a single parameter command or code to achieve it! For setup.py, we have two sets of compiler generation tools to complete the conversion of py to pyd!
+![generating tools](./resources/build_tools.png)
 
-![](./resources/build_tools.png)
+However, for libraries such as compilation, installation, and uninstallation, they are all handled here，
+
+Currently, the compiler installation library only supports domestic mirror sites. If you are a foreign user, you can execute it manually``` pip install cython setuptools psutil```
 
 
 
