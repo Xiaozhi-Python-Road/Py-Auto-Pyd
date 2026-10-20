@@ -39,7 +39,6 @@ The most convenient part is that this tool encapsulates all the structures. User
 However, for libraries such as compilation, installation, and uninstallation, they are all handled here，
 
 Currently, the compiler installation library only supports domestic mirror sites. If you are a foreign user, you can execute it manually``` pip install cython setuptools psutil```
-
-
+![Compiler_msvc](./resources/Compiler_msvc.png)
 
 
