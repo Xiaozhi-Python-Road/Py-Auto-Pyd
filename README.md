@@ -18,6 +18,6 @@ Supports Windows 10 22H2 or Windows 11 25H2 and above systems
 
 ### Iii. Toolset Environment：
 
-```diff
--We support the Visual Studio C Build Tools/MinGW compiler. We complete the external completion pyd based on batch processing and can try it out of the box. Currently, cross-platform support is not supported. We are very sorry. Please forgive us because we have no experience with mac and Linux systems! 
-```
+$\color{red}{\test{We support the Visual Studio C Build Tools/MinGW compiler. We complete the external completion pyd based on batch processing and can try it out of the box. Currently, cross-platform support is not supported. We are very sorry. Please forgive us because we have no experience with mac and Linux systems! }}$
+
+
