@@ -1,14 +1,14 @@
 # Py Auto Pyd
 
-##这是一款基于 Python Batch 编写的全自动 Py 转 Pyd 工具。我们封装了一个极简的界面，方便用户调用！
+## This is a fully automatic Py to Pyd conversion tool written based on Python Batch. We have encapsulated a minimalist interface for users to call up conveniently!
 
-##现在让我们开始介绍这些工具吧！开始
+## Now let's start introducing these tools! Start
 
-###准备环境：
+### Prepare the environment
 
-###一、工具编译器：
+### I. Tool Compiler
 
 ```
-我们目前支持 Python 3.8 及以上版本的所有解释器。然而，由于存在一个严重缺陷，我们在没有 CIL 的情况下无法支持 Python 3.15.0 系列新发布的免费线程稳定 ABI。该问题我们已提交报告。欲了解更多详情，请访问：
+We currently support all interpreters for Python version 3.8 and above. However, due to a serious defect, we are unable to support the newly released free thread-stable ABI of the Python 3.15.0 series without CIL. We have submitted a report on this issue. For more details, please visit
 ```
-[详细反馈问题页面](https://github.com/python/cpython/issues/159457)
+[The detailed feedback issue page](https://github.com/python/cpython/issues/159457)
