@@ -22,5 +22,9 @@ Supports Windows 10 22H2 or Windows 11 25H2 and above systems
 
 We have completed the environment variable. The generation tool will support generating setup.py, so you don't need to write the code by hand. However, it should be noted that we currently only support it```MSVC(2019 installer(14.29v142)+MSVC（2022 installer 14.44v143(The MSVC142 working set needs to be selected)```However, there are also some special circumstances that you need to pay attention to
 
+### Iv. Compiler Environment：
 
+MSVC：To facilitate a statement: Without the Windows platform and MSVC, there would be no Windows version of CPython. Since version 3.5, the official version designated by MSVC has been used for compilation. You can compile your python interpreter within the range of MSVC we support
+
+MinGW：GCC, also known as MinGW, was migrated from Linux to Windows. However, it has a drawback: it only supports interpreter versions 3.12 and above, and cannot compile interpreters 3.11 and below; otherwise, undefined errors for variables such as 401 and 407 will be thrown! But you can switch to the officially recommended MSVC
 
