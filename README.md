@@ -28,3 +28,9 @@ MSVC：To facilitate a statement: Without the Windows platform and MSVC, there w
 
 MinGW：GCC, also known as MinGW, was migrated from Linux to Windows. However, it has a drawback: it only supports interpreter versions 3.12 and above, and cannot compile interpreters 3.11 and below; otherwise, undefined errors for variables such as 401 and 407 will be thrown! But you can switch to the officially recommended MSVC
 
+## Alright, my introduction is over. Now you can read the main text：
+
+## The directory structure is as follows：
+
+
+
