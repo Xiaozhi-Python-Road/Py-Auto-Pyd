@@ -40,5 +40,11 @@ However, for libraries such as compilation, installation, and uninstallation, th
 
 Currently, the compiler installation library only supports domestic mirror sites. If you are a foreign user, you can execute it manually``` pip install cython setuptools psutil```
 ![Compiler_msvc](./resources/Compiler_msvc.png)
+![Interpreter query](./resources/CPython_Version_Check.png)
+![Looking for MSVC](./resources/vswhere.png)
+![result](./resources/jieguo.png)
+![result](./resources/jieguo2.png)
+Compiling pyd is this simple. If you also need this fully automatic conversion tool, you are welcome to submit your questions
+
 
 
